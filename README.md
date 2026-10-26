@@ -25,7 +25,7 @@ I work on **language models**: how they reason, how to make them efficient, how 
 <p align="center">
 <img src="https://img.shields.io/badge/🧠%20LLM%20Reasoning-2a9d8f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/⚡%20Efficiency-e9a23b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/✂️%20Model%20Compression-e76f51?style=for-the-badge" />
+<img src="https://img.shields.io/badge/✂️%20Model%20Compression-e76f51?style=for-the-badge" /><br/>
 <img src="https://img.shields.io/badge/🔍%20Interpretability-3a86ff?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🛡️%20AI%20Safety-8338ec?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🤖%20Coding%20Agents-1f6f8b?style=for-the-badge" />
